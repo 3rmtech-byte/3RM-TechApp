@@ -1,0 +1,8 @@
+[  
+  { "type": "Yate", "specifications": { "length": "15m", "capacity": "10" } },  
+  { "type": "Lancha", "specifications": { "length": "8m", "capacity": "5" } },  
+  { "type": "Velero", "specifications": { "length": "12m", "capacity": "8" } },  
+  { "type": "Bote Inflable", "specifications": { "length": "3m", "capacity": "4" } },  
+  { "type": "Crucero", "specifications": { "length": "20m", "capacity": "15" } },  
+  { "type": "Catamarán", "specifications": { "length": "18m", "capacity": "12" } }  
+]
